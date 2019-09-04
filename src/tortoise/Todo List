@@ -1,0 +1,31 @@
+Todo List:
+Executer:
+-   Refactor better command parsing (Forward and امام both link to Enum CMD.FORWARD)
+-   Implement Programming Mode to accept multiple Func-End declarations
+-   Refactor throwing as a class of its own
+
+
+GUI:
+-   Implement Up / Down brings Next / Previous command
+-   Add options tab to switch text left-right / right-left (For english / arabic)
+!   Implement Ctrl+C to stop current process. REQUIRES THREADING!!
+?   Implement a time wait for each step, maybe even a slider. OR set that as a command, and let the executer handle it.
+
+
+Drawing Board:
+-   Add Turtle image
+!   Implement Draggable graph
+
+
+Commands (Exec + Draw):
+-   Implement Pen up/ Pen down
+-   Implement Line color
+-   Implement Clear Screen
+-   Implement Pen up / Pen down
+-   Implement Fill
+-   Implement BG fill (with predefined colors or RGB ones)
+-   Implement SetX / SetY
+!   Implement Undo / Redo
+
+
+
